@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
-- 🤝 I’m looking for help with [ExpTracker](https://github.com/Emulars/ExpTracker)
-
 - 📫 How to reach me **davide.miggiano00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
