@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Davide Miggiano</h1>
 <h3 align="center">A Developer with the interest in game development from Italy</h3>
 
-- 🔭 I’m currently working on [ExpTracker](https://github.com/Emulars/ExpTracker)
-
 - 🌱 I’m currently learning **Flutter, Dart**
 
 - 📫 How to reach me **davide.miggiano00@gmail.com**
