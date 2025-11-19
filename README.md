@@ -1,31 +1,3 @@
-# My Online CV
-
-This repository hosts my personal portfolio website, designed to be deployed on GitHub Pages.
-
-## 🚀 How to Deploy
-
-1. Go to your repository **Settings**.
-2. Navigate to the **Pages** section (under "Code and automation").
-3. Under **Source**, select **Deploy from a branch**.
-4. Under **Branch**, select `main` (or `master`) and `/ (root)`.
-5. Click **Save**.
-6. Your site will be live at `https://<your-username>.github.io/<repo-name>/`.
-
-## ✏️ How to Customize
-
-1. **Edit `index.html`**:
-   * Look for sections marked with `class="editable"` or placeholder text like `[Your Name]`.
-   * Update the links in the navigation and footer.
-   * Replace the project descriptions and tech stacks in the `#work` section.
-2. **Update Images**:
-   * Replace the `avatar-small` background image in `style.css` or inline style.
-   * Add real project screenshots to the `.visual-placeholder` divs.
-3. **Theme**:
-   * The site supports Light and Dark modes automatically based on user preference, with a toggle button.
-   * Customize colors in `style.css` under `:root`.
-
----
-
 <h1 align="center">Hi 👋, I'm Davide Miggiano</h1>
 <h3 align="center">A Developer with the interest in game development from Italy</h3>
 
