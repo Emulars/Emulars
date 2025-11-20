@@ -180,6 +180,7 @@ main {
     display: grid;
     grid-template-columns: 1fr 1fr;
     transition: border-color 0.3s;
+    height: 320px; /* Fixed height for consistency */
 }
 
 .project-card:hover {
@@ -191,6 +192,7 @@ main {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    height: 100%; /* Ensure content takes full height */
 }
 
 .project-header {
@@ -381,6 +383,7 @@ footer {
     
     .project-card {
         grid-template-columns: 1fr;
+        height: auto; /* Reset height for mobile */
     }
     
     .project-visual {
